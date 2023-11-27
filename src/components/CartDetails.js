@@ -19,6 +19,7 @@ const CartDetails = () => {
      </div>
      <div className= "card-body p-0">
       arr.length===0 ? <table className='table cart-table mb-0'>
+      <div></div>
         <tbody>
           <tr>
             <td>
